@@ -19,7 +19,7 @@ Practical exercises involving cryptographic concepts, encryption, decryption, an
 ### [5. Linux Network Lab](Linux_Network_Lab_Report_Mohamed_Ali_DETAILED.docx)
 Linux networking exercises covering network configuration, connectivity, troubleshooting, and security-related commands.
 
-### 6. CEH Lab
+### [6. CEH Lab](CEH%20Lab.docx)
 Practical cybersecurity exercises based on ethical hacking and security assessment concepts.
 
 ## Tools & Technologies
