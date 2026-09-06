@@ -1,4 +1,4 @@
-# Ethical Hacking & Cybersecurity Labs
+### [1. Ethical Hacking Lab](Ethical_Hacking_Lab2_Report_With_Images.docx)
 
 A collection of hands-on cybersecurity and ethical hacking laboratory projects completed using Kali Linux and other security tools.
 
