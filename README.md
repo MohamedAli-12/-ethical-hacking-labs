@@ -13,10 +13,10 @@ Analysis and practical study of Denial-of-Service (DoS) and Distributed Denial-o
 ### [3. VNC Security Lab](Ethical_Hacking_VNC_Lab_Report.docx)
 Hands-on exploration of VNC services, remote access, security weaknesses, and penetration-testing techniques.
 
-### 4. Cryptography Lab
+### [4. Cryptography Lab](Lab4_Cryptography_Mohamed_Ali_Mohamed_With_Enhanced_Decryption.pdf)
 Practical exercises involving cryptographic concepts, encryption, decryption, and secure communication.
 
-### 5. Linux Network Lab
+### [5. Linux Network Lab](Linux_Network_Lab_Report_Mohamed_Ali_DETAILED.docx)
 Linux networking exercises covering network configuration, connectivity, troubleshooting, and security-related commands.
 
 ### 6. CEH Lab
