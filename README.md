@@ -7,7 +7,7 @@ A collection of hands-on cybersecurity and ethical hacking laboratory projects c
 ### 1. Ethical Hacking Lab
 Practical exercises covering fundamental ethical hacking concepts, security testing, and vulnerability assessment.
 
-### 2. DoS & DDoS Lab
+### [2. DoS & DDoS Lab](DoS_DDoS_Lab_Report_Revised.docx)
 Analysis and practical study of Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) attacks and their security implications.
 
 ### 3. VNC Security Lab
