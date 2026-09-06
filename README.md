@@ -10,7 +10,7 @@ Practical exercises covering fundamental ethical hacking concepts, security test
 ### [2. DoS & DDoS Lab](DoS_DDoS_Lab_Report_Revised.docx)
 Analysis and practical study of Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) attacks and their security implications.
 
-### 3. VNC Security Lab
+### [3. VNC Security Lab](Ethical_Hacking_VNC_Lab_Report.docx)
 Hands-on exploration of VNC services, remote access, security weaknesses, and penetration-testing techniques.
 
 ### 4. Cryptography Lab
